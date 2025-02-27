@@ -3,5 +3,6 @@ We need to encourage programmers to ask **more** stupid questions. Here are some
 
 ## Questions
 - What does the inside of a PDF look like?
-  - Can I add my own watermark
+  - Can I add my own watermark to PDFs I create?
 - Can I have a computer solve the puzzles of Keep Talking and Nobody Explodes?
+  - How about the Ceturion Project?
