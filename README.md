@@ -3,6 +3,7 @@ We need to encourage programmers to ask **more** stupid questions. Here are some
 
 ## Questions
 - If I have files housed in Dropbox, can I send them to a different cloud storage?
+- How does a search engine work?
 - What does the inside of a PDF look like?
   - Can I add my own watermark to PDFs I create?
 - Can a computer manage my Gmail inboxes?
