@@ -7,8 +7,9 @@ We need to encourage programmers to ask **more** stupid questions. Here are some
 - How does a search engine work?
   - Currently designing one
 - What does the inside of a PDF look like?
-  - Can I add my own watermark to PDFs I create?
+  - Can I watermark my PDFs?
 - Can a computer manage my Gmail inboxes?
+- Can a computer recognize my handwriting?
 - Can we simplify how much Java we have to write?
   - [As much as I love this language, it's a pain sometimes](https://github.com/Ultraviolet-Ninja/Utility-Belt)
 - Can I set up reminders to let me know when subscriptions are due?
